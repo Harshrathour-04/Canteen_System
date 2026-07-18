@@ -1,0 +1,1 @@
+SELECT * FROM canteen_db.menu;
