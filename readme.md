@@ -25,3 +25,23 @@ This is a desktop application I built using Python and Tkinter to help manage da
    Open your terminal in the project folder and run:
    ```text
    pip install pillow mysql-connector-python
+
+   ## Application Screenshots
+
+**1. Login Screen**
+![Login](screenshots/login%20.png)
+
+**2. Main Dashboard**
+![Dashboard](screenshots/dashboard.png)
+
+**3. Food Menu**
+![Food Menu](screenshots/food-menu.png)
+
+**4. Orders**
+![Orders](screenshots/orders.png)
+
+**5. Billing**
+![Billing](screenshots/billing.png)
+
+**6. Reports**
+![Reports](screenshots/report.png)
